@@ -1,0 +1,15 @@
+ vpc (2 AZs)
+ subnets (public and Private)
+ internet gateway
+ 2 NAT gateway
+route table (public and private)
+application load balancer
+2 security groupe
+auto scaling groupe
+4 instances
+
+
+LACKING
+ security group for instances 
+instances
+review application laod balancer $target group $asg
